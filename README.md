@@ -1,7 +1,7 @@
 # Home Sales Data Analysis
 
 <p align="center">
-  <img src="./images/big_data_header.JPG" alt="big_data_header"/>
+  <img src="./images/big_data_header.jpg" alt="big_data_header"/>
 </p>
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
